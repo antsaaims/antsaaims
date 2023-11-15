@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @antsaaims
-- 👀 I’m interested in everything about Mathematics, mainly its application to real life
-- 📫 You can follow me on Facebook with the link https://www.facebook.com/tianiavo.arimalalanykyria
-
+My name is Antsa and I am a second-year Ph.D. student and a Graduate Teacher of Record at the School of Mathematical and Statistical Science, Clemson University, USA. My research is on Post-Quantum Cryptography and my advisors are Prof Ryann Cartor and Prof Shuhong Gao. Currently, I am teaching one section of the Elementary Functions, a.k.a some topics on Pre-Calculus. I am also a proud alumnus of the African Institute for Mathematical Sciences, South Africa(Master of Science in Mathematical Sciences 2019-2020). I got a bachelor's degree in Mathematics Education in 2018 from École Normale Supérieure, University of Antananarivo Madagascar. I am passionate about teaching and writing. You can also find me on my personal website https://sites.google.com/view/antsahoneywinner/, my LinkedIn page https://www.linkedin.com/in/antsa-tantely-rakotondrafara/, and my Medium Page https://medium.com/@antsa_82380.
